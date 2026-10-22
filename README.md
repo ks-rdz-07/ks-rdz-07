@@ -9,6 +9,7 @@ Founder of **Radaz Technologies**. I build connected products end to end — fro
 - **Telecom & fintech platforms** — recharge, top-up, SMS/OTP and agent-network systems built for high volume
 - **Mobile apps** — customer-facing Android and iOS apps for device control, monitoring and on-device AI
 - **Automation & integration** — workflow automation, payroll systems and third-party API integrations
+- **Cloud & DevOps** — AWS and Azure architecture, CI/CD pipelines, Docker, monitoring and scalable deployments
 
 From idea to production: product design, engineering, deployment and long-term support.
 
@@ -27,6 +28,10 @@ From idea to production: product design, engineering, deployment and long-term s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ### Featured
 

@@ -1,6 +1,6 @@
 # Hi, I'm Kalidas 👋
 
-Full-stack and IoT developer at **Radaz Technologies**. I build connected products end to end — from ESP32 firmware to the cloud APIs, dashboards and mobile apps that sit on top of it.
+Founder of **Radaz Technologies**. I build connected products end to end — from ESP32 firmware to the cloud APIs, dashboards and mobile apps that sit on top of it.
 
 ### What I work on
 

@@ -2,12 +2,15 @@
 
 Founder of **Radaz Technologies**. I build connected products end to end — from ESP32 firmware to the cloud APIs, dashboards and mobile apps that sit on top of it.
 
-### What I work on
+### What we deliver
 
-- **IoT & embedded** — ESP32 / Arduino firmware (C++), MQTT, LoRa, water-level and flow monitoring devices
-- **Backend** — Node.js / NestJS, ASP.NET (C#), Python, PostgreSQL, Supabase
-- **Frontend** — React, Next.js, TypeScript, admin portals and POS / e-commerce UIs
-- **Mobile** — Flutter apps for device monitoring and on-device AI
+- **Smart IoT products** — connected devices for water-level, pump and flow monitoring, from hardware firmware to live cloud dashboards
+- **Business software** — ERP, inventory, billing, POS and e-commerce platforms that run day-to-day operations
+- **Telecom & fintech platforms** — recharge, top-up, SMS/OTP and agent-network systems built for high volume
+- **Mobile apps** — customer-facing Android and iOS apps for device control, monitoring and on-device AI
+- **Automation & integration** — workflow automation, payroll systems and third-party API integrations
+
+From idea to production: product design, engineering, deployment and long-term support.
 
 ### Tech stack
 
